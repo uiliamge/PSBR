@@ -13,6 +13,7 @@ namespace PSBR.Controllers
 
         public ActionResult Index()
         {
+            ViewBag.Title = "Início";
             return View();
         }        
     }

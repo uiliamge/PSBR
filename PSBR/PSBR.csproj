@@ -112,6 +112,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\ExtratoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -893,6 +894,9 @@
     <Content Include="Content\bower_components\morrisjs\spec\viz\run.sh" />
     <Content Include="Content\bower_components\raphael\.bower.json" />
     <Content Include="Content\bower_components\raphael\bower.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Extrato\Index.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
