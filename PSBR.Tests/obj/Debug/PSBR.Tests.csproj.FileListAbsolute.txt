@@ -28,3 +28,33 @@ C:\Users\Uiliam.Uiliam-PC\Google Drive\ULBRA\TCC\TCC II\Projeto\PSBR\PSBR.Tests\
 C:\Users\Uiliam.Uiliam-PC\Google Drive\ULBRA\TCC\TCC II\Projeto\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Uiliam.Uiliam-PC\Google Drive\ULBRA\TCC\TCC II\Projeto\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.dll
 C:\Users\Uiliam.Uiliam-PC\Google Drive\ULBRA\TCC\TCC II\Projeto\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.pdb
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.Tests.dll.config
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.Tests.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.Tests.pdb
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Helpers.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Http.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Mvc.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Razor.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.pdb
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Helpers.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Http.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Mvc.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Razor.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\projetos\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.csprojResolveAssemblyReference.cache
+E:\projetos\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.dll
+E:\projetos\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.pdb
