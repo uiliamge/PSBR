@@ -1,51 +1,24 @@
 ﻿@{
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home Page";
 }
 <div class="row">
-    <div class="col-lg-12">
-    <h2>@ViewBag.Title</h2>
-    </div>
-</div>
-<div class="row">
-    <div class="col-lg-12">
+    <div class="col-md-9">
 
-        <!-- /.panel -->
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <i class="fa fa-bar-chart-o fa-fw"></i> Bar Chart Example
-                <div class="pull-right">
-                    <div class="btn-group">
-                        <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
-                            Actions
-                            <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu pull-right" role="menu">
-                            <li>
-                                <a href="#">Action</a>
-                            </li>
-                            <li>
-                                <a href="#">Another action</a>
-                            </li>
-                            <li>
-                                <a href="#">Something else here</a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                                <a href="#">Separated link</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="lead">Bem-vindo ao portal do Programa da Saúde Brasileira</p>             
             </div>
-            <!-- /.panel-heading -->
-            <div class="panel-body">
-                <div class="row">
-
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- /.panel-body -->
         </div>
     </div>
+    @* Painel direito - Twitter *@
+    <div class="col-md-3 pull-right">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                Twitter
+            </div>
+            <div class="panel-body">
 
+            </div>
+        </div>
+    </div>
 </div>

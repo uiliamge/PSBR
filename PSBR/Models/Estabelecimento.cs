@@ -22,6 +22,8 @@ namespace PSBR.Models
         /// </summary>
         public string Cnes { get; set; }
 
+        public virtual Usuario Usuario { get; set; }
+
         public virtual ICollection<Extrato> Extratos { get; set; }
     }
 }

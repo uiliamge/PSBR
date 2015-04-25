@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PSBR.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,27 +18,14 @@ namespace PSBR.Controllers
             return View();
         }
 
-        //
-        // GET: /Extrato/Details/5
-
-        public ActionResult Details(int id)
+        
+        public ActionResult Importar()
         {
             return View();
         }
-
-        //
-        // GET: /Extrato/Create
-
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        //
-        // POST: /Extrato/Create
 
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Importar(FormCollection collection)
         {
             try
             {
@@ -51,49 +39,18 @@ namespace PSBR.Controllers
             }
         }
 
-        //
-        // GET: /Extrato/Edit/5
-
-        public ActionResult Edit(int id)
+        public ActionResult Preencher()
         {
             return View();
         }
 
-        //
-        // POST: /Extrato/Edit/5
-
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Preencher(Extrato extrato)
         {
             try
             {
-                // TODO: Add update logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        //
-        // GET: /Extrato/Delete/5
-
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        //
-        // POST: /Extrato/Delete/5
-
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add delete logic here
+                extrato.DataHora = DateTime.Now;
+                extrato.IndImportado = 0;
 
                 return RedirectToAction("Index");
             }

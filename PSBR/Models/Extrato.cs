@@ -23,6 +23,10 @@ namespace PSBR.Models
 
         public DateTime DataHora { get; set; }
 
+        [DataType(DataType.Date)]
+        [Display(Name = "Data de Referência")]
+        public DateTime DataReferencia { get; set; }
+
         public virtual Estabelecimento Estabelecimento { get; set; }
 
         public virtual ICollection<Composicao> Composicoes { get; set; }
