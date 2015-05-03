@@ -28,7 +28,9 @@ namespace PSBR
             //foreach (var theme in Bootstrap.Themes)
             //{
                 //var stylePath = string.Format("~/Content/Themes/{0}/bootstrap.css", theme);
-                var stylePath = "~/Content/Themes/Stock/bootstrap.css";
+                //var stylePath = "~/Content/Themes/Stock/bootstrap.css";
+                //var stylePath = "~/Content/Themes/Darkly/bootstrap.css";
+                var stylePath = "~/Content/Themes/Amelia/bootstrap.css";
 
                 bundles.Add(new StyleBundle("~/bundles/theme").Include(
                             stylePath,

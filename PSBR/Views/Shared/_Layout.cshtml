@@ -7,7 +7,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>SIIS - Sistema de Integração de Informações de Saúde</title>
+    @*<title>@ViewBag.Title - My ASP.NET Application</title>*@
     @{
     //var theme = Bootstrap.Theme.Stock;
     //if (User.Identity.IsAuthenticated)
@@ -23,7 +24,7 @@
     @Scripts.Render("~/bundles/modernizr")
     @Scripts.Render("~/bundles/jquery")
 </head>
-<body>
+<body style="padding-top: 60px !important;">
     @RenderSection("topLevel", required: false)
     @*The structure for the navbar*@
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -35,7 +36,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+                <a href="@Url.Action("Index","Home")" title="Sistema de Integração de Informações de Saúde">
+                    <img style=" width: 75px;" class="" src="~/Content/imagens/logo_transparente.png" />
+                </a>
+                @*<div class="col-sm-10">
+                        <span style="">@Html.ActionLink("Sistema de Integração de Informações de Saúde", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</span>
+                    </div>*@
+
             </div>
             <div class="navbar-collapse collapse">
                 @Html.Partial("_MenuPartial")
@@ -50,10 +58,10 @@
 
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Projeto Saúde Brasil</p>
+            <p>&copy; 2015 - @DateTime.Now.Year - Sistema de Integração de Informações de Saúde</p>
         </footer>
     </div>
-    
+
     @*The Bootstrap JS is loaded here*@
     @*The JS takes care of some things that can't happen in pure CSS and adds functionality *@
     @Scripts.Render("~/bundles/bootstrap")
