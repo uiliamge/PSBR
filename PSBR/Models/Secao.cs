@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -12,6 +13,7 @@ namespace PSBR.Models
     /// usualmente refletindo o fluxo de informação obtido durante um encontro médico, ou
     /// estruturado para o benefício de leitores humanos futuros.
     /// </summary>
+    [Table("Secao")]
     public class Secao
     {
         [Display(Name = "Código")]

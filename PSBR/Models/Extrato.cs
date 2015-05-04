@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
 namespace PSBR.Models
 {
+    [Table("Extrato")]
     public class Extrato
     {
         [Display(Name = "Código")]
@@ -27,7 +29,7 @@ namespace PSBR.Models
         [Display(Name = "Data de Referência")]
         public DateTime DataReferencia { get; set; }
 
-        public virtual Estabelecimento Estabelecimento { get; set; }
+        public virtual Responsavel Responsavel { get; set; }
 
         public virtual ICollection<Composicao> Composicoes { get; set; }
     }

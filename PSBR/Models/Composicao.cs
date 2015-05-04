@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -11,6 +12,7 @@ namespace PSBR.Models
     /// O conjunto de informação registrado em um RES por um agente, como um resultado de
     /// um encontro clínico único ou sessão de documentação de registro.
     /// </summary>
+    [Table("Composicao")]
     public class Composicao
     {
         [Display(Name = "Código")]

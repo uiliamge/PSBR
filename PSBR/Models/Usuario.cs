@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
 namespace PSBR.Models
 {
+    [Table("Usuario")]
     public class Usuario
     {
         [Required]
         [Display(Name = "Código")]
-        public string Id { get; set; }
+        public int Id { get; set; }
         
         [Required]
         [Display(Name = "Nome")]
@@ -26,6 +28,6 @@ namespace PSBR.Models
         [Display(Name = "Password")]
         public string Password { get; set; }
 
-        public virtual Estabelecimento Estabelecimento { get; set; }
+        public virtual Responsavel Responsavel { get; set; }
     }
 }

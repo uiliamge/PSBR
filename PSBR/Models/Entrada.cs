@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -10,6 +11,7 @@ namespace PSBR.Models
     /// A informação registrada em um RES como o resultado de uma ação clínica, uma
     /// observação, uma interpretação clínica, ou uma intenção.
     /// </summary>
+    [Table("Entrada")]
     public class Entrada
     {
         [Display(Name = "Código")]

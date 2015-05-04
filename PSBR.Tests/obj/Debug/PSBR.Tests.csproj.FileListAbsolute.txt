@@ -44,6 +44,7 @@ E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Razor.dll
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.dll
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\EntityFramework.dll
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Optimization.dll
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\PSBR.pdb
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\Newtonsoft.Json.xml
@@ -56,6 +57,7 @@ E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Razor.xml
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.xml
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\projetos\PSBR\PSBR.Tests\bin\Debug\EntityFramework.xml
 E:\projetos\PSBR\PSBR.Tests\bin\Debug\System.Web.Optimization.xml
 E:\projetos\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.csprojResolveAssemblyReference.cache
 E:\projetos\PSBR\PSBR.Tests\obj\Debug\PSBR.Tests.dll

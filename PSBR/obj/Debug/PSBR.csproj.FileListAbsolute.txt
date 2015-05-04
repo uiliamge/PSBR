@@ -1,7 +1,9 @@
 E:\projetos\PSBR\PSBR\bin\PSBR.dll.config
 E:\projetos\PSBR\PSBR\bin\PSBR.dll
 E:\projetos\PSBR\PSBR\bin\PSBR.pdb
+E:\projetos\PSBR\PSBR\bin\Antlr3.Runtime.dll
 E:\projetos\PSBR\PSBR\bin\EntityFramework.dll
+E:\projetos\PSBR\PSBR\bin\EntityFramework.SqlServer.dll
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.Core.dll
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -27,7 +29,9 @@ E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.Deployment.dll
 E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.dll
 E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.Razor.dll
 E:\projetos\PSBR\PSBR\bin\WebGrease.dll
+E:\projetos\PSBR\PSBR\bin\Antlr3.Runtime.pdb
 E:\projetos\PSBR\PSBR\bin\EntityFramework.xml
+E:\projetos\PSBR\PSBR\bin\EntityFramework.SqlServer.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.Core.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.AspNet.Identity.Owin.xml
@@ -38,8 +42,8 @@ E:\projetos\PSBR\PSBR\bin\Microsoft.Owin.Security.Cookies.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.Owin.Security.Google.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\projetos\PSBR\PSBR\bin\Microsoft.Owin.Security.OAuth.xml
-E:\projetos\PSBR\PSBR\bin\System.Web.Optimization.xml
 E:\projetos\PSBR\PSBR\bin\Newtonsoft.Json.xml
+E:\projetos\PSBR\PSBR\bin\System.Web.Optimization.xml
 E:\projetos\PSBR\PSBR\bin\System.Net.Http.Formatting.xml
 E:\projetos\PSBR\PSBR\bin\System.Web.Helpers.xml
 E:\projetos\PSBR\PSBR\bin\System.Web.Http.xml
@@ -49,8 +53,7 @@ E:\projetos\PSBR\PSBR\bin\System.Web.Razor.xml
 E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.xml
 E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.Deployment.xml
 E:\projetos\PSBR\PSBR\bin\System.Web.WebPages.Razor.xml
-E:\projetos\PSBR\PSBR\obj\Debug\PSBR.csprojResolveAssemblyReference.cache
 E:\projetos\PSBR\PSBR\obj\Debug\PSBR.dll
 E:\projetos\PSBR\PSBR\obj\Debug\PSBR.pdb
-E:\projetos\PSBR\PSBR\bin\Antlr3.Runtime.dll
-E:\projetos\PSBR\PSBR\bin\Antlr3.Runtime.pdb
+E:\projetos\PSBR\PSBR\obj\Debug\PSBR.Migrations.dbcreate.resources
+E:\projetos\PSBR\PSBR\obj\Debug\PSBR.csproj.GenerateResource.Cache
